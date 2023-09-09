@@ -4,7 +4,7 @@ Your favorite Full-Stack Web3 Dev | Node.js | Nest.js | Next.js | Solidity | Rus
 
 🚀 Web3 Bot Engineer | Web3 SDK Engineer | Builder | Fun Dev Writer | Content Creator 📝
 
-![Profile Banner](link_to_your_banner_image)
+![Profile Banner](https://avatars.githubusercontent.com/u/90690698?v=4)
 
 ## About Me
 
