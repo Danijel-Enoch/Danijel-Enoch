@@ -20,8 +20,8 @@ I'm [Your Name], a passionate Full-Stack Web3 Developer with expertise in a wide
 
 ### Projects
 
-- [Project 1](link_to_project_1): A brief description of your project.
-- [Project 2](link_to_project_2): Another exciting project you've worked on.
+- [Project 1](https://github.com/Danijel-Enoch/gravy-stack): BoilerPlate that make it easir to write web3 telegram bots
+- [Project 2](https://github.com/Danijel-Enoch/token_maker_app): Simple Dapp for Create ERC20 tokens
 
 ### Writing
 
