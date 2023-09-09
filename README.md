@@ -1,10 +1,10 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm EnochDanijel 👋
 
 Your favorite Full-Stack Web3 Dev | Node.js | Nest.js | Next.js | Solidity | Rust | TypeScript
 
 🚀 Web3 Bot Engineer | Web3 SDK Engineer | Builder | Fun Dev Writer | Content Creator 📝
 
-![Profile Banner](https://avatars.githubusercontent.com/u/90690698?v=4)
+
 
 ## About Me
 
