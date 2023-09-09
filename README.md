@@ -25,7 +25,7 @@ I'm [Your Name], a passionate Full-Stack Web3 Developer with expertise in a wide
 
 ### Writing
 
-Check out some of my [published articles](link_to_your_blog) where I delve into the fascinating world of Web3 development.
+Check out some of my [published articles](http://www.theblockchaindev.xyz/) where I delve into the fascinating world of Web3 development.
 
 ## Let's Connect 🌐
 
