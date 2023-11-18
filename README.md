@@ -8,7 +8,7 @@ Your favorite Full-Stack Web3 Dev | Node.js | Nest.js | Next.js | Solidity | Rus
 
 ## About Me
 
-I'm [Your Name], a passionate Full-Stack Web3 Developer with expertise in a wide range of technologies, including Node.js, Nest.js, Next.js, Solidity, Rust, and TypeScript. I'm on a mission to revolutionize the digital landscape with blockchain technology, one project at a time.
+I'm Enoch  Daniel A, a passionate Full-Stack Web3 Developer with expertise in a wide range of technologies, including Node.js, Nest.js, Next.js, Solidity, Rust, and TypeScript. I'm on a mission to revolutionize the digital landscape with blockchain technology, one project at a time.
 
 ## What I Do
 
